@@ -1,0 +1,2 @@
+Hello, World! C Programming 101
+The quick brown fox jumps over the lazy dog
